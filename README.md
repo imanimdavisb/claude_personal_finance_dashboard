@@ -1,4 +1,3 @@
-# claude_personal_finance_dashboard
 # Claude Personal Finance Dashboard
 
 ## Overview
